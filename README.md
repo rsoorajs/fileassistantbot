@@ -16,7 +16,7 @@ You can use with 2 methods:
 
 2-) Run `php fileassistantbot.php`
 
-## Installing Requirements for VPS
+### Installing Requirements for VPS
 
 `sudo apt-get install python-software-properties software-properties-common`
 
